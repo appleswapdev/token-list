@@ -14,6 +14,14 @@
             "symbol": "APPLE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/appleswapdev/token-list/main/assets/apple.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/appleswapdev/token-list/main/assets/USDT.svg"
         }
     ],
     "version": {
